@@ -1,3 +1,5 @@
+
+
 *, *:before, *:after {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -8,6 +10,8 @@ html {
     height: 100%;
     font-size: 100%;
 }
+
+
 
 body {
     font-family: 'Open Sans';
@@ -42,12 +46,15 @@ body {
    /* Style information will go here */
  }
 
+
+
  .column {
          float: left;
          padding-left: 1rem;
          padding-right: 1rem;
      }
  }
+
 
  .column.full { width: 100%; }
     .column.two-thirds { width: 66.7%; }
